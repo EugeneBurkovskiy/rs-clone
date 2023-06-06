@@ -1,5 +1,5 @@
 ## TS Academy
-![TSAcademy](https://github.com/EugeneBurkovskiy/rs-clone/assets/109791286/8a0abad2-078d-474e-a4b9-bd03b1973580)
+![TSAcademy](https://github.com/EugeneBurkovskiy/rs-clone/assets/109791286/37e8b46e-5b38-4bb1-82ac-5ce4eb6e5807)
 
 Final group project at RS School (EPAM) for 3 people. Development time limit - 3 weeks.
 
