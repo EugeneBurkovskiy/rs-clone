@@ -4,6 +4,13 @@
 Final group project at RS School (EPAM) for 3 people. Development time limit - 3 weeks.
 
 This app is a TypeScript educational platform, where users can read lessons, pass the tests and play games, practice with algorithmical tasks and track their progress with statistics. [Task description](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rsclone/rsclone.md)
+The application consists of several sections:
+- Lessons - allow you to study the theory and answer the questions at the end of each chapter.
+- Main - general information about the platform, benefits of learning Typescript and developers.
+- Practice - several tasks from Codevars and a sandbox for writing code.
+- Games - allow you to consolidate your knowledge by playing games.
+- Statistics - displays the user's progress. Available to authorized users only.
+- Authorization - a form for registration and login.
 
 ## Deploy
 
